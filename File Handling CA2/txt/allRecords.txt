@@ -1,0 +1,10 @@
+YEAR	WINNER NAME	    COUNTRY 
+1992	Alexander Popov     Unified Team
+1996	Alexander Popov     Russia    
+2000	Anthony Ervin        United States
+2004	Gary Hall Jr.        United States
+2008	César Cielo          Brazil   
+2012	Florent Manaudou     France   
+2016	Anthony Ervin        United States
+2020	Caeleb Dressel      United States
+2024	Cameron McEvoy      Australia 
